@@ -1,0 +1,26 @@
+PODS:
+  - Alamofire (4.8.1)
+  - SDWebImage (4.4.5):
+    - SDWebImage/Core (= 4.4.5)
+  - SDWebImage/Core (4.4.5)
+  - XCDYouTubeKit (2.7.3)
+
+DEPENDENCIES:
+  - Alamofire
+  - SDWebImage
+  - XCDYouTubeKit
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - SDWebImage
+    - XCDYouTubeKit
+
+SPEC CHECKSUMS:
+  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  SDWebImage: ecc03494e973b93b80213649d32175f8d2d17d4d
+  XCDYouTubeKit: 3f4fd3eb3ed494a46a8f007b91315eed6dd6df1f
+
+PODFILE CHECKSUM: ee0e6dda70b16234344f7c560fd0bff536590bf3
+
+COCOAPODS: 1.5.3
